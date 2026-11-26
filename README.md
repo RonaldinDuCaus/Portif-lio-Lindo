@@ -24,3 +24,10 @@ Incluir imagens e vídeos reais da esteira e documentos autorizados. Confirmar a
 
 ## Verificação
 A estrutura usa caminhos relativos. Não existem serviços externos obrigatórios. Para publicar, copie os arquivos na raiz de um repositório GitHub e habilite GitHub Pages para a branch main.
+## Atualizacao - video da esteira e areas do saber
+
+- `assets/videos/esteira-inteligente.mp4`: video curto otimizado para navegacao na web, fornecido pelo estudante.
+- `assets/imagens/area-3.jpg`, `area-10.jpg`, `area-17.jpg` e `area-21.jpg`: quadros retirados do video; ilustram conexoes entre as quatro areas e o trabalho tecnico, nao aulas especificas.
+- `formacao-tecnica.html`: documenta a sequencia de identificacao, envio ao banco de dados e visualizacao na dashboard.
+- `memorias.html`: inclui registro audiovisual do projeto.
+- Os comentarios em HTML, CSS e JavaScript explicam recursos essenciais.
