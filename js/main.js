@@ -1,3 +1,4 @@
+// Código JavaScript simples, sem frameworks. O botão abre/fecha a navegação no celular.
 // Menu responsivo: controla a navegacao e atualiza aria-expanded.
 const botao = document.querySelector('.menu-button');
 const navegacao = document.querySelector('nav');
